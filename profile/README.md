@@ -1,12 +1,9 @@
-## Hi there 👋
+# FIAP Global Solution - Space Connect
 
-<!--
+Seja bem-vindo ao repositório referente ao projeto desenvolvido no ano de 2026 como trabalho semestral, denominado **Global Solution**, em que nossa faculdade **FIAP** determina uma problemática geral e exige projetos para solucioná-la. O tema desse ano foi: *Space Connect*
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Integrantes do Grupo:
+- Ulisses Ribeiro - RM562230
+- Arthur Berlofa Bosi - RM564438
+- Luigi Borghi - RM563096
+- Levi de Jesus - RM563279
